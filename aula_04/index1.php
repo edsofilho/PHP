@@ -20,7 +20,7 @@
     </form>
 
     <?php
-    if(empty($_POST["txt_nome"]) or empty($_POST{"txt_cidade"}) or empty($_POST["txt_telefone"]) or empty($_POST["txt_cpf"])){
+    if(empty($_POST["txt_nome"]) or empty($_POST["txt_cidade"]) or empty($_POST["txt_telefone"]) or empty($_POST["txt_cpf"])){
     ?>
 
     <h3>Digite:</h3>
